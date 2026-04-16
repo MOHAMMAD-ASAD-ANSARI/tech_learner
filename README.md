@@ -9,6 +9,7 @@ This repository serves as a daily log of my learning progress across different t
 I use it to stay consistent, track improvement, and build a habit of documenting what I learn.
 
 🛠️ Areas of Focus
+
 Programming Languages
 Web Development
 Computer Science Fundamentals
@@ -19,19 +20,26 @@ Frameworks & Libraries
 (This list will grow as I continue learning)
 
 📅 Daily Updates
+
 I will regularly push updates based on what I learn each day
 Each entry will include key concepts, notes, and sometimes code examples
+
 🎯 Goals
+
 Learn and understand core technical concepts deeply
 Stay consistent with daily learning
 Build real-world skills
 Create projects based on what I learn
+
 📌 Why This Repo?
+
 To track my progress publicly
 To stay accountable
 To revise concepts easily
 To help others who are on a similar journey
+
 🚀 Future Plans
+
 Add hands-on projects
 Share useful resources
 Explore advanced topics

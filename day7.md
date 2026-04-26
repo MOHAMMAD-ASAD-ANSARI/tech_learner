@@ -14,3 +14,19 @@ in my case coa leel is all good i need to enable long path size in os level so w
 
 
 i m really very fascinatd knowing this
+
+
+i also learned how asynclocalstorage work
+Class: AsyncLocalStorage
+new AsyncLocalStorage([options])
+Static method: AsyncLocalStorage.bind(fn)
+Static method: AsyncLocalStorage.snapshot()
+asyncLocalStorage.disable()
+asyncLocalStorage.getStore()
+asyncLocalStorage.enterWith(store)
+asyncLocalStorage.name
+asyncLocalStorage.run(store, callback[, ...args])
+asyncLocalStorage.exit(callback[, ...args])
+asyncLocalStorage.withScope(store)
+Usage with async/await
+its reallife usecase is logging.

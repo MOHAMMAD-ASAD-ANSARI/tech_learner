@@ -12,3 +12,4 @@ commands:
 
 today i learned how people work in collaboration in companies how they fix bug without affecting the production code after debugging how they merge their code
 
+i also learned diff stash and tags
